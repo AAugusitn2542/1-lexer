@@ -1,6 +1,6 @@
 # Assignment 1 - Lexer - CSC 413 Spring 2025
 
-Name: PUT YOUR FULL NAME HERE
+Name: Andre Augustin
 
 ## Notes
 
